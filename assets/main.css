@@ -1,0 +1,30 @@
+.page-enter-active, .page-leave-active {
+  transition: opacity .5s;
+}
+.page-enter, .page-leave-to {
+  opacity: 0;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  max-width: 100% !important;
+  margin: auto !important;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-rendering: optimizeLegibility;
+  min-width: 320px;
+  background: linear-gradient(222.73deg,#2b6071,#233b4b 64.95%) fixed;
+  -webkit-tap-highlight-color: transparent;
+}
+* {
+  font-family: 'Roboto', sans-serif;
+}
+ul {
+  list-style-type: none;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "corona-map-nuxt",
+  "version": "1.0.0",
+  "description": "Korona virus - Bosna i Hercegovina, mape uživo, stanje u državi, najnovije aktuelnosti iz svijeta.",
+  "author": "dragutin-avdalovic93",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "element-ui": "^2.4.11",
+    "leaflet": "^1.6.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "nuxt-leaflet": "0.0.21",
+    "vue-chartjs": "^3.5.0",
+    "vue-paginate": "^3.6.0",
+    "vue-social-sharing": "^2.4.7",
+    "vue2-leaflet": "^2.5.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/moment": "^1.6.0"
+  }
+}
