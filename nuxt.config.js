@@ -36,6 +36,7 @@ export default {
     '@/plugins/element-ui',
     { src: '~plugins/social-sharing', ssr: false },
     { src: '~plugins/moment', ssr: false },
+    { src: '~plugins/back-to-top', ssr: false },
     { src: '~plugins/vue-paginate' }
   ],
   /*

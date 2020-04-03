@@ -17,6 +17,7 @@
     "moment": "^2.24.0",
     "nuxt": "^2.0.0",
     "nuxt-leaflet": "0.0.21",
+    "vue-backtotop": "^1.6.1",
     "vue-chartjs": "^3.5.0",
     "vue-paginate": "^3.6.0",
     "vue-social-sharing": "^2.4.7",

@@ -1,9 +1,9 @@
 <template>
   <div class="footer-container">
     <AppInfo></AppInfo>
-    <!--          <back-to-top bottom="15px" right="20px" visibleoffset="150">-->
-      <!--            <button type="button" @click="location.href='//ofgogoatan.com/afu.php?zoneid=3171539'" class="btn btn-info btn-to-top"><i class="fa fa-chevron-up"></i></button>-->
-      <!--          </back-to-top>-->
+    <back-to-top bottom="15px" right="20px" visibleoffset="150">
+        <button type="button" class="btn btn-info btn-to-top"><i class="fa fa-chevron-up"></i></button>
+    </back-to-top>
     <div class="trust-logo">
       <p>Podijelite na društvenim mrežama</p>
       <social-sharing url="https://koronavirusbih.com/"
@@ -163,9 +163,6 @@
   .network {
     width: 90%;
     margin: 0 auto 10px auto;
-  }
-  .resp {
-    margin-top: 20px;
   }
   .btn-to-top {
     background: rgb(40, 110, 255);;
