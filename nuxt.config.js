@@ -54,7 +54,6 @@ export default {
   /*
   ** Build configuration
   */
-  buildDir: '.nuxt',
   build: {
     transpile: [/^element-ui/],
     /*
