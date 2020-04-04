@@ -37,7 +37,7 @@ export default {
     { src: '~plugins/social-sharing', ssr: false },
     { src: '~plugins/moment', ssr: false },
     { src: '~plugins/back-to-top', ssr: false },
-    { src: '~plugins/vue-paginate' }
+    { src: '~plugins/vue-paginate'}
   ],
   /*
   ** Nuxt.js dev-modules
