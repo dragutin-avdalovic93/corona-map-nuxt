@@ -5,7 +5,7 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: process.env.npm_package_name || 'COVID-19 uživo Bosna i Hercegovina',
+    title: 'COVID-19 mapa uživo, informacije, aktulenosti -> Bosna i Hercegovina',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -44,17 +44,36 @@ export default {
   */
   buildModules: [
     'nuxt-leaflet',
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-161970206-1'
+    }]
   ],
   /*
   ** Nuxt.js modules
   */
   modules: [
-    'nuxt-leaflet'
+    'nuxt-leaflet', '@nuxtjs/sitemap'
   ],
+  sitemap: {
+    hostname: 'https://koronavirusbih.com',
+    gzip: true,
+    routes: [
+      '/post/1',
+      '/post/2',
+      'post/3',
+      'post/4',
+      'post/5',
+      'post/6',
+      'post/7',
+      'post/8',
+      'post/9',
+      'post/10','post/11','post/12'
+    ]
+  },
   /*
   ** Build configuration
   */
-  build: {
+   build: {
     transpile: [/^element-ui/],
     /*
     ** You can extend webpack config here

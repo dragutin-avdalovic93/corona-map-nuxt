@@ -30,7 +30,7 @@
                   {{blog.tags[0]}},{{blog.tags[1]}}
                 </div>
                 <div class="read-more" @click="visitPost(blog.id)">
-                  <a href="" target="">
+                  <a @click="visitPost(blog.id)">
                     <span class="read">Pročitaj Više </span><i class="fa fa-angle-right"/>
                   </a>
                 </div>

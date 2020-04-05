@@ -26,7 +26,7 @@
                   {{post.tags[0]}},{{post.tags[1]}}
                 </div>
                 <div class="read-more" @click="goBack">
-                  <a href="" target="">
+                  <a @click="goBack">
                     <span class="read">Nazad</span><i class="fa fa-angle-left"/>
                   </a>
                 </div>

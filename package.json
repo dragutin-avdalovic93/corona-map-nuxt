@@ -7,10 +7,12 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "serve": "nuxt build --no-lock",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/sitemap": "^2.1.0",
     "chart.js": "^2.9.3",
     "element-ui": "^2.4.11",
     "leaflet": "^1.6.0",
@@ -24,6 +26,7 @@
     "vue2-leaflet": "^2.5.2"
   },
   "devDependencies": {
+    "@nuxtjs/google-analytics": "^2.2.3",
     "@nuxtjs/moment": "^1.6.0"
   }
 }

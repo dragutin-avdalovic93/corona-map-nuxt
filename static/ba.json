@@ -24,6 +24,12 @@
           "name": "Tuzla"
         },
         {
+          "key": "Zivinice",
+          "latitude": 44.44929,
+          "longitude": 18.64978,
+          "name": "Živinice"
+        },
+        {
           "key": "Mostar",
           "latitude": 43.343033,
           "longitude": 17.807894,
@@ -46,6 +52,12 @@
           "latitude": 45.0973,
           "longitude": 17.52331,
           "name": "Srbac"
+        },
+        {
+          "key": "Milici",
+          "latitude": 44.17016,
+          "longitude": 19.09195,
+          "name": "Milići"
         },
         {
           "key": "Orasje",
@@ -238,5 +250,155 @@
           "latitude": 44.415487,
           "longitude": 16.809548,
           "name": "Ribnik"
+        },
+          {
+          "key": "Zepce",
+          "latitude": 44.429457,
+          "longitude": 18.037963,
+          "name": "Žepče"
+        },
+          {
+          "key": "Travnik",
+          "latitude": 44.228653,
+          "longitude": 17.646547,
+          "name": "Travnik"
+        },
+          {
+          "key": "Srebrenik",
+          "latitude": 44.704778,
+          "longitude": 18.492807,
+          "name": "Srebrenik"
+        },
+          {
+          "key": "Cazin",
+          "latitude": 44.965223,
+          "longitude": 15.939566,
+          "name": "Cazin"
+        },
+          {
+          "key": "Gornji Vakuf - Uskoplje",
+          "latitude": 43.938518,
+          "longitude": 17.588726,
+          "name": "Gornji Vakuf - Uskoplje"
+        },
+        {
+          "key": "Kakanj",
+          "latitude": 44.13311,
+          "longitude": 18.12292,
+          "name": "Kakanj"
+        },
+        {
+          "key": "Ilijas",
+          "latitude": 43.947756,
+          "longitude": 18.265517,
+          "name": "Ilijaš"
+        },
+        {
+          "key": "Vogosca",
+          "latitude": 43.900735,
+          "longitude": 18.344933,
+          "name": "Vogošća"
+        },
+        {
+          "key": "Ilidza",
+          "latitude": 43.831285,
+          "longitude": 18.303909,
+          "name": "Ilidža"
+        },
+        {
+          "key": "Zvornik",
+          "latitude": 44.386412,
+          "longitude": 19.104999,
+          "name": "Zvornik"
+        },
+        {
+          "key": "Sekovici",
+          "latitude": 44.306201,
+          "longitude": 18.876657,
+          "name": "Šekovići"
+        },
+        {
+          "key": "Velika Kladusa",
+          "latitude": 45.183971,
+          "longitude": 15.806837,
+          "name": "Velika Kladuša"
+        },
+        {
+          "key": "Pale",
+          "latitude": 43.813750,
+          "longitude": 18.570236,
+          "name": "Pale"
+        },
+        {
+          "key": "Mrkonjic Grad",
+          "latitude": 44.416493,
+          "longitude": 17.085130,
+          "name": "Mrkonjić grad"
+        },
+        {
+          "key": "Jablanica",
+          "latitude": 43.659326,
+          "longitude": 17.762743,
+          "name": "Jablanica"
+        },
+        {
+          "key": "Vitez",
+          "latitude": 44.149796,
+          "longitude": 17.792702,
+          "name": "Vitez"
+        },
+        {
+          "key": "Gracanica",
+          "latitude": 44.705318,
+          "longitude": 18.310549,
+          "name": "Gračanica"
+        },
+        {
+          "key": "Istocna Ilidza",
+          "latitude": 43.792309,
+          "longitude": 18.371010,
+          "name": "Istočna Ilidža"
+        },
+        {
+          "key": "Sipovo",
+          "latitude": 44.282567,
+          "longitude": 17.085457,
+          "name": "Šipovo"
+        },
+        {
+          "key": "Hadzici",
+          "latitude": 43.823117,
+          "longitude": 18.206678,
+          "name": "Hadžići"
+        },
+        {
+          "key": "Bugojno",
+          "latitude": 44.056917,
+          "longitude": 17.449121,
+          "name": "Bugojno"
+        },
+        {
+          "key": "Sapna",
+          "latitude": 44.493487,
+          "longitude": 19.002088,
+          "name": "Sapna"
+        },
+        {
+          "key": "Banovici",
+          "latitude": 44.409373,
+          "longitude": 18.529479,
+          "name": "Banovići"
+        },
+        {
+          "key": "Livno",
+          "latitude": 43.825023,
+          "longitude": 17.005738,
+          "name": "Livno"
+        },
+        {
+          "key": "Capljina",
+          "latitude": 43.112548,
+          "longitude": 17.701589,
+          "name": "Čapljina"
         }
 ]
